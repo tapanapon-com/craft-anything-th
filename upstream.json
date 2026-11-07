@@ -1,0 +1,37 @@
+{
+  "id": "craft-anything",
+  "name": "Craft Anything",
+  "repository": "https://github.com/tapanapon-com/craft-anything-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/craft-anything",
+    "releaseTag": "v0.5.0",
+    "releaseUrl": "https://github.com/storytold/craft-anything/releases/tag/v0.5.0",
+    "publishedAt": "2026-11-06T20:21:17Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "d784d0a609b31414d952589cfd30afbe1168b0cb",
+    "sourceVersion": "0.4.0",
+    "macDownload": "https://github.com/storytold/craft-anything/releases/download/v0.5.0/craft-anything-0.5.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/craft-anything/releases/download/v0.5.0/craft-anything-0.5.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/craft-anything/releases/download/v0.5.0/craft-anything-0.5.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/craft-anything/releases/download/v0.5.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "ให้ OpenCode ที่รันแบบ native ใช้เครื่องมือ Craft Anything และแสดงการเรียกเครื่องมือได้",
+        "source": "https://github.com/storytold/craft-anything/pull/800"
+      },
+      {
+        "text": "ปรับช่องพิมพ์คำสั่งใน Advanced console ให้เริ่มต้นที่สามบรรทัด",
+        "source": "https://github.com/storytold/craft-anything/pull/979"
+      },
+      {
+        "text": "แก้การจัดประเภทไม่ให้โปรแกรมเล่นวิดีโอหรือเพลงถูกนับเป็นเกม",
+        "source": "https://github.com/storytold/craft-anything/pull/970"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#craft-anything"
+}
